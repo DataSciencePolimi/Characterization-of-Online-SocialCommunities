@@ -1,4 +1,4 @@
-# -Characterization-of-Online-SocialCommunities
+# Characterization-of-Online-SocialCommunities
 
 This software allows to extract textual features vectors from texts in order to evaluate the characterization of Online Social Communities.
 
